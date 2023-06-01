@@ -9,5 +9,8 @@
         <module name="UIProject_Team12" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.UIProject_Team12" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
